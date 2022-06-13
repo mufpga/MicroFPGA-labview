@@ -22,8 +22,8 @@ This repository contains examples of LabVIEW code communicating with MicroFPGA.
 
 
 ## Cite us
+[![DOI](https://zenodo.org/badge/10.1101/2022.06.07.495178.svg)](https://zenodo.org/badge/latestdoi/10.1101/2022.06.07.495178)
 
-[![DOI:10.1101/2022.06.07.495178 ](https://zenodo.org/badge/DOI10.1101/2022.06.07.49517.svg)](https://doi.org/10.1101/2022.06.07.495178)
 Joran Deschamps, Christian Kieser, Philipp Hoess, Takahiro Deguchi, Jonas Ries, "MicroFPGA: an affordable FPGA platform for microscope control",
 bioRxiv 2022.06.07.495178.
 
