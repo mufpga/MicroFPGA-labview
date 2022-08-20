@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="21008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -15,12 +15,18 @@
 			<Item Name="private" Type="Folder">
 				<Item Name="U32_to_hex.vi" Type="VI" URL="../U32_to_hex.vi"/>
 				<Item Name="address_plus_laserNumber_U32_to_hex.vi" Type="VI" URL="../address_plus_laserNumber_U32_to_hex.vi"/>
-				<Item Name="mojo_laser_control.vi" Type="VI" URL="../mojo_laser_control.vi"/>
+				<Item Name="laser_control.vi" Type="VI" URL="../laser_control.vi"/>
 				<Item Name="hex_to_U32.vi" Type="VI" URL="../hex_to_U32.vi"/>
 				<Item Name="read_string.vi" Type="VI" URL="../read_string.vi"/>
 			</Item>
 			<Item Name="example" Type="Folder">
 				<Item Name="example_microFPGA.vi" Type="VI" URL="../example_microFPGA.vi"/>
+				<Item Name="example_microFPGA_lasers.vi" Type="VI" URL="../example_microFPGA_lasers.vi"/>
+				<Item Name="example_microFPGA_TTL.vi" Type="VI" URL="../example_microFPGA_TTL.vi"/>
+				<Item Name="example_microFPGA_PWM.vi" Type="VI" URL="../example_microFPGA_PWM.vi"/>
+				<Item Name="example_microFPGA_Servo.vi" Type="VI" URL="../example_microFPGA_Servo.vi"/>
+				<Item Name="example_microFPGA_AnalogIN.vi" Type="VI" URL="../example_microFPGA_AnalogIN.vi"/>
+				<Item Name="example_microFPGA_camera.vi" Type="VI" URL="../example_microFPGA_camera.vi"/>
 			</Item>
 			<Item Name="microFPGA_init.vi" Type="VI" URL="../microFPGA_init.vi"/>
 			<Item Name="microFPGA_close.vi" Type="VI" URL="../microFPGA_close.vi"/>
